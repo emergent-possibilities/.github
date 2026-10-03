@@ -1,8 +1,10 @@
 # Emergent Labs
 
-A small collective of product engineers building and exploring at the edge of technology — chasing ideas, building tools, and exploring possibilities.
+A small lab of engineers and designers building practical tools, in the open where we can.
 
 ![Emergent Labs](./assets/hero-github-banner.png)
+
+Emergent Labs is a small group of software engineers and designers. We explore new technology and build tools that solve practical problems: some for our own use, some with the teams we work alongside. We publish in the open where we can, collaborate closely rather than hand work off, and take on most new work by referral.
 
 ---
 
